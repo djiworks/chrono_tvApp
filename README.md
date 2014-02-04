@@ -1,4 +1,4 @@
-chrono_tvApp
+Chronometer App for SamsungSmart TV
 ============
 
-Chronometer App for Samsung SmartTV
+Use your TV as a simple chronometer and make it visible largely

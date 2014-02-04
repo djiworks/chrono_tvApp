@@ -1,0 +1,84 @@
+#SceneMain{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 960px;
+	height : 540px;
+	background-color : #ffffff;
+	background-image : url('');
+}
+#SceneMain #min{
+	position : absolute;
+	font-size : 42pt;
+	color : #008000;
+	left : 338px;
+	top : 260px;
+	width : 82px;
+}
+
+#SceneMain #cent{
+	position : absolute;
+	font-size : 42pt;
+	color : #223376;
+	left : 548px;
+	top : 260px;
+	width : 92px;
+}
+
+#SceneMain #reset{
+	position : absolute;
+	left : 545px;
+	top : 445px;
+	width : 164px;
+}
+
+#SceneMain #second{
+	position : absolute;
+	font-size : 42pt;
+	color : #008000;
+	left : 441px;
+	top : 260px;
+	width : 78px;
+}
+#SceneMain #svecKeyHelp_zw5a{
+	position : absolute;
+	left : 0px;
+	top : 510px;
+}
+#SceneMain #st_btn{
+	position : absolute;
+	left : 260px;
+	top : 445px;
+	width : 164px;
+}
+#SceneMain #svecLabel_ulh8{
+	position : absolute;
+	font-size : 42pt;
+	color : #223376;
+	left : 418px;
+	top : 260px;
+	width : 30px;
+}
+#SceneMain #svecLabel_c02c{
+	position : absolute;
+	font-size : 42pt;
+	color : #223376;
+	left : 519px;
+	top : 260px;
+	width : 30px;
+}
+#SceneMain #svecImage_as7b{
+	position : absolute;
+	left : 760px;
+	top : 30px;
+	width : 168px;
+	height : 160px;
+}
+#SceneMain #svecLabel_gkpk{
+	position : absolute;
+	font-size : 12pt;
+	color : #223376;
+	left : 730px;
+	top : 470px;
+	width : 223px;
+}
